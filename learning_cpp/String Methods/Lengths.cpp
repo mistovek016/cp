@@ -3,7 +3,7 @@
 int main() {
     using std::cout, std::cin, std::string;
     string str0 = "Hello world!";
-    
+
     // ----------------------------------------
     // LENGTH(), SIZE(), CAPACITY(), MAX_SIZE()
     cout << str0.length() << '\n';
